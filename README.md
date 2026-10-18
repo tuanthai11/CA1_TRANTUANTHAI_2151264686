@@ -26,7 +26,3 @@ Dựa trên sơ đồ kiến trúc SAGE:
 - **Chi tiết:** Kết nối trực tiếp đường truyền đặc trưng từ DINOv3 Backbone 1 & Backbone 2 xuống các tầng Decoder để khôi phục độ phân giải gốc $H 	imes W 	imes 3$.
 
 ---
-
-## 🚀 Hướng dẫn chạy file Notebook
-1. Mở notebook `SAGE_Full_DINOv3_Architecture.ipynb`.
-2. Chọn **Run All Cells** để tiến hành khởi tạo DINOv3 Encoder và kiểm tra luồng dữ liệu.
